@@ -1,7 +1,7 @@
 title: 0CMS Jekyll Example
 description: A simple Jekyll example for 0CMS
-baseurl: ""
-url: "http://example.com"
+baseurl: "/0cms-example-jekyll"
+url: "https://megawron.github.io"
 markdown: kramdown
 theme: minima
 plugins:
