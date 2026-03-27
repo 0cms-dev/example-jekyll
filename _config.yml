@@ -1,0 +1,8 @@
+title: 0CMS Jekyll Example
+description: A simple Jekyll example for 0CMS
+baseurl: ""
+url: "http://example.com"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
